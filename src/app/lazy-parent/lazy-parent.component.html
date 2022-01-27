@@ -1,0 +1,12 @@
+<h1>I'm a lazy Component, Meet all my lazy children I'm proud-lazy</h1>
+
+<div *ngFor="let name of ['Moe', 'Larry', 'Curly']">
+  <ul>
+    <li>Hi, my name is {{ name }}. I'm a lazy child component.</li>
+    <hr />
+  </ul>
+
+  <lazy-child></lazy-child>
+</div>
+
+<button routerLink="/">Go back!</button>
