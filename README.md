@@ -17,4 +17,4 @@
 
 <h3 align="left">Course content ⭐️</h3>
 
-- Canva presentation about this an another angular subjects [https://www.canva.com/design/DAE2AP2m6aA/view?utm_content=DAE2AP2m6aA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE2AP2m6aA/view?utm_content=DAE2AP2m6aA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- Canva presentation about this an other angular subjects [https://www.canva.com/design/DAE2AP2m6aA/view?utm_content=DAE2AP2m6aA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE2AP2m6aA/view?utm_content=DAE2AP2m6aA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
